@@ -3,7 +3,7 @@
 I'm from Liberia, and I'm a Creative Engineer. My work entails designing experiences and developing products. 
 
 ## Stats
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=divinestylus&show_icons=true&theme=dark)
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=divinestylus&show_icons=true&theme=apprentice)
 
 ## Skills
 
