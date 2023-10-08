@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hi there, I'm Sam
 
+I'm from Liberia, and I'm a Creative Engineer. My work entails designing experiences and building products. 
+## Skills
 <!--
 **divinestylus/divinestylus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
