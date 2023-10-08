@@ -1,12 +1,7 @@
-# Hi there, I'm Sam
+# Sam B. Morris
+**`Creative Engineer (Designer & Developer)`**
 
-I'm from Liberia, and I'm a Creative Engineer. My work entails designing experiences and developing products. 
-
-## Stats
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=divinestylus&show_icons=true&theme=apprentice)
-
-## Skills
-
+I love designing experiences and developing products. All of my projects are built from the ground up. From ideation and planning to designing and coding, all in an effort to solve real-life problems.
 
 ## Tools
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -23,17 +18,8 @@ I'm from Liberia, and I'm a Creative Engineer. My work entails designing experie
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-<!--
-**divinestylus/divinestylus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Stats
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=divinestylus&show_icons=true&theme=apprentice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
