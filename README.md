@@ -1,6 +1,10 @@
 # Hi there, I'm Sam
 
-I'm from Liberia, and I'm a Creative Engineer. My work entails designing experiences and building products. 
+I'm from Liberia, and I'm a Creative Engineer. My work entails designing experiences and developing products. 
+
+## Stats
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=divinestylus&show_icons=true&theme=dark)
+
 ## Skills
 
 
@@ -19,8 +23,8 @@ I'm from Liberia, and I'm a Creative Engineer. My work entails designing experie
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 <!--
 **divinestylus/divinestylus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
