@@ -1,4 +1,6 @@
-# Sam B. Morris
+# Sam B. Morris 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divinestylus&label=Profile%20views&color=0e75b6&style=flat" alt="divinestylus" /> </p>
+
 **`Creative Engineer (Designer & Developer)`**
 
 I love designing experiences and developing products. All of my projects are built from the ground up. From ideation and planning to designing and coding, all in an effort to solve real-life problems.
