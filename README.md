@@ -5,7 +5,7 @@
 
 I love designing experiences and developing products. All of my projects are built from the ground up. From ideation and planning to designing and coding, all in an effort to solve real-life problems.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=true&width=600&lines=A+Designer;A+Developer;A+Learning+Enthusiast;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23339bf5&center=false&vCenter=true&width=600&lines=A+Designer;A+Developer;A+Learning+Enthusiast;)](https://git.io/typing-svg)
 
 ## Tools
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
