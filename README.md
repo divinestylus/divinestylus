@@ -1,5 +1,4 @@
 # Sam B. Morris 
-<p><img src="https://komarev.com/ghpvc/?username=divinestylus&label=Profile%20views&color=0e75b6&style=flat" alt="divinestylus-profileview-badge"/></p>
 
 **`Creative Engineer (Designer & Developer)`**
 
