@@ -1,7 +1,7 @@
 # Sam B. Morris 
 **`Creative Engineer (Designer & Developer)`**
 
-I love designing experiences and developing products. All of my projects are built from the ground up. From ideation and planning to designing and coding, all in an effort to solve real-life problems.
+I love designing experiences and developing products. All of my projects are built from the ground up. From ideating and planning to designing and coding, all to solve real-life problems. I love to work with brands that are intentional about the future of Africa. Brands that focus more on achieving a real impact than just making a profit.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23339bf5&center=false&vCenter=true&width=600&lines=A+Designer;A+Developer;A+Learning+Enthusiast;)](https://git.io/typing-svg)
 
