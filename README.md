@@ -1,5 +1,4 @@
 # Sam B. Morris 
-
 **`Creative Engineer (Designer & Developer)`**
 
 I love designing experiences and developing products. All of my projects are built from the ground up. From ideation and planning to designing and coding, all in an effort to solve real-life problems.
