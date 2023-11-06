@@ -3,6 +3,8 @@
 
 I love designing experiences and developing products. All of my projects are built from the ground up. From ideating and planning to designing and coding, all to solve real-life problems. I love to work with brands that are intentional about the future of Africa. Brands that focus more on achieving a real impact than just making a profit.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divinestylus&label=Profile%20views&color=0e75b6&style=flat" alt="divinestylus" /> </p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23339bf5&center=false&vCenter=true&width=600&lines=A+Designer;A+Developer;A+Learning+Enthusiast;)](https://git.io/typing-svg)
 
 ## Tools
@@ -27,6 +29,8 @@ I love designing experiences and developing products. All of my projects are bui
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divinestylus&show_icons=true&locale=en&layout=compact" alt="divinestylus" /></p>
+
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=divinestylus&show_icons=true&theme=apprentice)
 
 
